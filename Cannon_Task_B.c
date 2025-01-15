@@ -155,3 +155,4 @@ int main(int argc, char** argv) {
     MPI_Finalize();
     return 0;
 }// Commit for 2025-01-17 12:00:00 - Added print function for matrices
+// Commit for 2025-01-15 12:00:00 - Implemented matrix initialization and random value generation
