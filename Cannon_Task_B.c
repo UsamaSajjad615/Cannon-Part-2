@@ -161,3 +161,4 @@ int main(int argc, char** argv) {
 // Commit for 2025-01-22 12:00:00 - Integrated initial matrix skewing for correct alignment
 // Commit for 2025-01-26 12:00:00 - Implemented local matrix multiplication within Cannon’s loop
 // Commit for 2025-01-24 12:00:00 - Optimized neighbor rank calculation for better data flow
+// Commit for 2025-01-29 12:00:00 - Refactored MPI communication for efficiency and clarity
