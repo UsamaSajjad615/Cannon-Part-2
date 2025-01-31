@@ -157,3 +157,4 @@ int main(int argc, char** argv) {
 }// Commit for 2025-01-17 12:00:00 - Added print function for matrices
 // Commit for 2025-01-15 12:00:00 - Implemented matrix initialization and random value generation
 // Commit for 2025-01-19 12:00:00 - Developed Cannon’s algorithm structure with rank-based computation
+// Commit for 2025-01-31 12:00:00 - Finalized scatter, gather, and checkerboard distribution for task B compliance
